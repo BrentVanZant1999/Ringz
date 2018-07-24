@@ -1,0 +1,37 @@
+/// @description Draw the disk
+draw_set_color(myColor);
+switch(mySize) {
+case(0):
+draw_circle(x,y,obj_dataController.sizeZero,0);
+break;
+case(1):
+draw_circle(x,y,obj_dataController.sizeOne,0);
+break;
+case(2):
+draw_circle(x,y,obj_dataController.sizeTwo,0);
+break;
+case(3):
+draw_circle(x,y,obj_dataController.sizeThree,0);
+break;
+case(4):
+draw_circle(x,y,obj_dataController.sizeFour,0);
+break;
+case(5):
+draw_circle(x,y,obj_dataController.sizeFive,0);
+break;
+case(6):
+draw_circle(x,y,obj_dataController.sizeSix,0);
+break;
+case(7):
+draw_circle(x,y,obj_dataController.sizeSeven,0);
+break;
+case(8):
+draw_circle(x,y,obj_dataController.sizeEight,0);
+break;
+case(9):
+draw_circle(x,y,obj_dataController.sizeNine,0);
+break;
+case(10):
+draw_circle(x,y,obj_dataController.sizeTen,0);
+break;
+}
