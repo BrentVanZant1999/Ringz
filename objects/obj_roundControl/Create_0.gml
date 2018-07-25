@@ -1,6 +1,7 @@
 /// @description Control Gameplay
 level = 1; //current level; 
 alarm[0] = 1;
+alarm[1] = 4;
 boardSize = 3;
 rings = 6;
 gridSize = obj_data.gridSize; 
