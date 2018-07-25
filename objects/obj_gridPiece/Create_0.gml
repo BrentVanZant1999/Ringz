@@ -7,5 +7,9 @@ alarm[1] = 1;
 
 //initiate the stack of the space
 myContents = ds_stack_create();
+newContents = ds_stack_create();
 //set the sole content to be the number 12 to indicate empty state
-ds_stack_push(myContents,11); 
+ds_stack_push(myContents,11);
+ds_stack_push(myContents,2); 
+ds_stack_push(myContents,1);
+ds_stack_push(myContents,0); 

@@ -1,8 +1,8 @@
 {
-    "id": "3ab29fc6-238d-44e3-b97a-4bf36af339a2",
+    "id": "9efb13be-51fd-4282-a6ac-698a03ba94b2",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "generatePuzzle",
+    "name": "addDisk",
     "IsCompatibility": false,
     "IsDnD": false
 }

@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2ca7fdb3-6651-4da6-8783-9b097eaaeefa",
+            "Value": {
+                "id": "f4024448-e50b-4210-b82f-3fda5944fe5a",
+                "resourcePath": "scripts\\drawDisk\\drawDisk.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2d09d5fe-a775-4509-84b1-5e9c05578e12",
             "Value": {
                 "id": "33f4c3a2-f8a6-41b5-9b7e-35b73bb5c68a",
@@ -107,14 +115,6 @@
             "Value": {
                 "id": "8760d6d2-1ddd-40c4-bfea-4d0989aa96a6",
                 "resourcePath": "scripts\\resizeScreen\\resizeScreen.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "3ab29fc6-238d-44e3-b97a-4bf36af339a2",
-            "Value": {
-                "id": "eabbe358-b431-47a9-9798-2dc47f433e63",
-                "resourcePath": "scripts\\generatePuzzle\\generatePuzzle.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -204,6 +204,14 @@
                 "id": "ecfde1b9-bdcd-4705-ad85-1ab033ef6724",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "9efb13be-51fd-4282-a6ac-698a03ba94b2",
+            "Value": {
+                "id": "2cde1bbe-db7d-420f-99c3-6b16ea953d48",
+                "resourcePath": "scripts\\addDisk\\addDisk.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -347,8 +355,9 @@
         "39e38a5a-851c-4290-8f2c-4e5dd941b5cf",
         "e2f74d42-e828-426f-8c2d-f7960cc820c5",
         "3e4a31ec-5e03-4adb-b04e-aed88eecc4e1",
-        "3ab29fc6-238d-44e3-b97a-4bf36af339a2",
-        "7238191f-a4d1-410b-8445-324d94888d3f"
+        "7238191f-a4d1-410b-8445-324d94888d3f",
+        "2ca7fdb3-6651-4da6-8783-9b097eaaeefa",
+        "9efb13be-51fd-4282-a6ac-698a03ba94b2"
     ],
     "tutorial": ""
 }
