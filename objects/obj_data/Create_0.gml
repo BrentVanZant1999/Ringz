@@ -5,17 +5,17 @@
 //In-Game Object Variables
 gridSize = 160;
 
-sizeZero = 12;
-sizeOne = 18;
-sizeTwo = 24;
-sizeThree = 32;
-sizeFour = 40;
-sizeFive = 48;
-sizeSix = 56;
-sizeSeven = 64;
-sizeEight = 72;
-sizeNine = 80;
-sizeTen = 88; 
+sizeZero = 10;
+sizeOne = 16;
+sizeTwo = 22;
+sizeThree = 28;
+sizeFour = 34;
+sizeFive = 40;
+sizeSix = 46;
+sizeSeven = 50;
+sizeEight = 56;
+sizeNine = 62;
+sizeTen = 68; 
 
 colorZero = make_color_rgb(241,125,128); //light red
 colorOne = make_color_rgb(125,237,241); //aqua blue
