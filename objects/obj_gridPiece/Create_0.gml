@@ -1,6 +1,6 @@
 /// @description Initiate instance variables
 myID = 0;
-mySize = obj_dataController.gridSpaceSize;
+mySize = obj_data.gridSize;
 myCenterX = 0;
 myCenterY = 0; 
 alarm[1] = 1; 

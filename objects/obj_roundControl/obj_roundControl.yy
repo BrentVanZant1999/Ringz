@@ -2,7 +2,7 @@
     "id": "aba5330f-51de-4b8f-ae43-ea5df52e1e6e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_gameController",
+    "name": "obj_roundControl",
     "eventList": [
         {
             "id": "c786ec37-0e45-457e-99b7-60d5666e84da",

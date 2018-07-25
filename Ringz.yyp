@@ -170,7 +170,7 @@
             "Key": "50354fbf-1347-4174-8788-f037347b8d04",
             "Value": {
                 "id": "41583c42-bf80-41df-9785-f1fa4cdbc77a",
-                "resourcePath": "objects\\obj_dataController\\obj_dataController.yy",
+                "resourcePath": "objects\\obj_data\\obj_data.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -242,16 +242,8 @@
             "Key": "aba5330f-51de-4b8f-ae43-ea5df52e1e6e",
             "Value": {
                 "id": "3e992b76-7add-48ea-ba64-6e88aac979a9",
-                "resourcePath": "objects\\obj_gameController\\obj_gameController.yy",
+                "resourcePath": "objects\\obj_roundControl\\obj_roundControl.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ad00c1ab-dd45-4c02-8e8b-34a71ff11169",
-            "Value": {
-                "id": "5cc6e7a0-35a2-4682-bf0e-0983e5d0cd2e",
-                "resourcePath": "paths\\path0\\path0.yy",
-                "resourceType": "GMPath"
             }
         },
         {
@@ -355,7 +347,8 @@
         "39e38a5a-851c-4290-8f2c-4e5dd941b5cf",
         "e2f74d42-e828-426f-8c2d-f7960cc820c5",
         "3e4a31ec-5e03-4adb-b04e-aed88eecc4e1",
-        "3ab29fc6-238d-44e3-b97a-4bf36af339a2"
+        "3ab29fc6-238d-44e3-b97a-4bf36af339a2",
+        "7238191f-a4d1-410b-8445-324d94888d3f"
     ],
     "tutorial": ""
 }

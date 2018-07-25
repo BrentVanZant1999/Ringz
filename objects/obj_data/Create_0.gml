@@ -3,7 +3,7 @@
 
 
 //In-Game Object Variables
-gridSpaceSize = 160;
+gridSize = 160;
 
 sizeZero = 12;
 sizeOne = 18;
@@ -20,3 +20,7 @@ sizeTen = 88;
 colorZero = make_color_rgb(241,125,128); //light red
 colorOne = make_color_rgb(125,237,241); //aqua blue
 colorTwo = make_color_rgb(125,241,150); //light green
+
+
+
+backgroundColor = make_color_rgb(255,255,255);
