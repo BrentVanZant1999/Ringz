@@ -6,16 +6,16 @@
 gridSize = 160;
 
 sizeZero = 10;
-sizeOne = 16;
-sizeTwo = 22;
-sizeThree = 28;
-sizeFour = 34;
-sizeFive = 40;
-sizeSix = 46;
-sizeSeven = 50;
-sizeEight = 56;
-sizeNine = 62;
-sizeTen = 68; 
+sizeOne = 20;
+sizeTwo = 30;
+sizeThree = 40;
+sizeFour = 50;
+sizeFive = 60;
+sizeSix = 70;
+sizeSeven = 80;
+sizeEight = 90;
+sizeNine = 100;
+sizeTen = 110; 
 
 colorZero = make_color_rgb(237,250,120); //bright breen
 colorOne = make_color_rgb(127,255,166); //light green
@@ -28,4 +28,9 @@ colorSeven = make_color_rgb(255,140,148); //dark pink
 colorEight = make_color_rgb(255,108,117); // red
 colorNine = make_color_rgb(184,97,255); //dark pink
 colorTen= make_color_rgb(148,138,255); //dark pink
-backgroundColor = make_color_rgb(255,255,255);
+
+colorTheme1 = make_color_rgb(57,174,169); //dark blue
+colorTheme2 = make_color_rgb(162,213,171); //light green
+colorTheme3 = make_color_rgb(229,239,193); //light green
+colorEdge = make_color_rgb(85,123,131); // dark blue
+backgroundColor = make_color_rgb(91,81,81); // dark grey
