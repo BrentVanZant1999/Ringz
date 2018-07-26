@@ -12,3 +12,6 @@
 //mesage about disk sizes
 
 // if not push the value back to original grid point 
+
+
+instance_destroy(self); 
