@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "2ca7fdb3-6651-4da6-8783-9b097eaaeefa",
-            "Value": {
-                "id": "f4024448-e50b-4210-b82f-3fda5944fe5a",
-                "resourcePath": "scripts\\drawDisk\\drawDisk.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "2d09d5fe-a775-4509-84b1-5e9c05578e12",
             "Value": {
                 "id": "33f4c3a2-f8a6-41b5-9b7e-35b73bb5c68a",
@@ -95,11 +87,11 @@
             }
         },
         {
-            "Key": "320526bc-cd78-43bc-87a3-60b605022c93",
+            "Key": "325c4573-b672-4d18-bb9d-b70575c36335",
             "Value": {
-                "id": "f1e6b46e-8153-4664-b022-61566c95effd",
-                "resourcePath": "sprites\\spr_hitbox\\spr_hitbox.yy",
-                "resourceType": "GMSprite"
+                "id": "321d47ce-5a4b-46a9-89de-771542bced27",
+                "resourcePath": "objects\\obj_bg\\obj_bg.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -343,6 +335,14 @@
             }
         },
         {
+            "Key": "f545af9b-3027-44f8-8c3d-2b5a0557a3ad",
+            "Value": {
+                "id": "e4f859a5-0e66-44e6-b986-1f05602e215d",
+                "resourcePath": "sprites\\spr_bg\\spr_bg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f8550f29-0bdb-4296-97df-e6c2521df4c3",
             "Value": {
                 "id": "f3211b5d-cd0b-48b1-858e-002f50df3c0a",
@@ -356,7 +356,6 @@
         "e2f74d42-e828-426f-8c2d-f7960cc820c5",
         "3e4a31ec-5e03-4adb-b04e-aed88eecc4e1",
         "7238191f-a4d1-410b-8445-324d94888d3f",
-        "2ca7fdb3-6651-4da6-8783-9b097eaaeefa",
         "9efb13be-51fd-4282-a6ac-698a03ba94b2"
     ],
     "tutorial": ""

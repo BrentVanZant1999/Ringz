@@ -1,5 +1,7 @@
 /// @description Generate Puzzle Pieces here 
 /// addDisk(idNum, sizeNumber); 
-addDisk(2, 3); 
-addDisk(3, 4); addDisk(3, 1);  addDisk(4, 5); addDisk(4, 2); addDisk(5, 6); 
-addDisk(6, 7); addDisk(7, 8); addDisk(8, 9); 
+addDisk(0, 2); 
+addDisk(0, 1); 
+addDisk(1, 3);  
+addDisk(2, 4);
+addDisk(3, 5);

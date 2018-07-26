@@ -1,4 +1,7 @@
 /// @description Draw the disk
+draw_set_color(myColor);
+draw_set_circle_precision(240);
+draw_set_color(myColor);
 switch(mySize) {
 case(0):
 draw_set_color(obj_data.colorTheme1);
@@ -25,7 +28,7 @@ draw_circle(x,y,obj_data.sizeTwo-1,1);
 draw_circle(x,y,obj_data.sizeTwo-2,1);
 break;
 case(3):
-draw_set_color(obj_data.colorTheme1);
+draw_set_color(obj_data.colorTheme4);
 draw_circle(x,y,obj_data.sizeThree,0);
 draw_set_color(c_white);
 draw_circle(x,y,obj_data.sizeThree,1);
@@ -33,7 +36,7 @@ draw_circle(x,y,obj_data.sizeThree-1,1);
 draw_circle(x,y,obj_data.sizeThree-2,1);
 break;
 case(4):
-draw_set_color(obj_data.colorTheme2);
+draw_set_color(obj_data.colorTheme1);
 draw_circle(x,y,obj_data.sizeFour,0);
 draw_set_color(c_white);
 draw_circle(x,y,obj_data.sizeFour,1);
@@ -41,7 +44,7 @@ draw_circle(x,y,obj_data.sizeFour-1,1);
 draw_circle(x,y,obj_data.sizeFour-2,1);
 break;
 case(5):
-draw_set_color(obj_data.colorTheme3);
+draw_set_color(obj_data.colorTheme2);
 draw_circle(x,y,obj_data.sizeFive,0);
 draw_set_color(c_white);
 draw_circle(x,y,obj_data.sizeFive,1);
@@ -49,7 +52,7 @@ draw_circle(x,y,obj_data.sizeFive-1,1);
 draw_circle(x,y,obj_data.sizeFive-2,1);
 break;
 case(6):
-draw_set_color(obj_data.colorTheme1);
+draw_set_color(obj_data.colorTheme3);
 draw_circle(x,y,obj_data.sizeSix,0);
 draw_set_color(c_white);
 draw_circle(x,y,obj_data.sizeSix,1);
@@ -57,7 +60,7 @@ draw_circle(x,y,obj_data.sizeSix-1,1);
 draw_circle(x,y,obj_data.sizeSix-2,1);
 break;
 case(7):
-draw_set_color(obj_data.colorTheme2);
+draw_set_color(obj_data.colorTheme4);
 draw_circle(x,y,obj_data.sizeSeven,0);
 draw_set_color(c_white);
 draw_circle(x,y,obj_data.sizeSeven,1);
@@ -65,7 +68,7 @@ draw_circle(x,y,obj_data.sizeSeven-1,1);
 draw_circle(x,y,obj_data.sizeSeven-2,1);
 break;
 case(8):
-draw_set_color(obj_data.colorTheme3);
+draw_set_color(obj_data.colorTheme1);
 draw_circle(x,y,obj_data.sizeEight,0);
 draw_set_color(c_white);
 draw_circle(x,y,obj_data.sizeEight,1);
@@ -73,7 +76,7 @@ draw_circle(x,y,obj_data.sizeEight-1,1);
 draw_circle(x,y,obj_data.sizeEight-2,1);
 break;
 case(9):
-draw_set_color(obj_data.colorTheme1);
+draw_set_color(obj_data.colorTheme2);
 draw_circle(x,y,obj_data.sizeNine,0);
 draw_set_color(c_white);
 draw_circle(x,y,obj_data.sizeNine,1);
@@ -81,7 +84,7 @@ draw_circle(x,y,obj_data.sizeNine-1,1);
 draw_circle(x,y,obj_data.sizeNine-2,1);
 break;
 case(10):
-draw_set_color(obj_data.colorTheme2);
+draw_set_color(obj_data.colorTheme3);
 draw_circle(x,y,obj_data.sizeTen,0);
 draw_set_color(c_white);
 draw_circle(x,y,obj_data.sizeTen,1);

@@ -3,14 +3,14 @@
 
 
 //In-Game Object Variables
-gridSize = 160;
+gridSize = 320;
 
-sizeZero = 10;
-sizeOne = 20;
-sizeTwo = 30;
-sizeThree = 40;
-sizeFour = 50;
-sizeFive = 60;
+sizeZero = 30;
+sizeOne = 50;
+sizeTwo = 70;
+sizeThree = 90;
+sizeFour = 110;
+sizeFive = 130;
 sizeSix = 70;
 sizeSeven = 80;
 sizeEight = 90;
@@ -32,5 +32,6 @@ colorTen= make_color_rgb(148,138,255); //dark pink
 colorTheme1 = make_color_rgb(57,174,169); //dark blue
 colorTheme2 = make_color_rgb(162,213,171); //light green
 colorTheme3 = make_color_rgb(229,239,193); //light green
+colorTheme4 = make_color_rgb(243,73,95); //pink
 colorEdge = make_color_rgb(85,123,131); // dark blue
 backgroundColor = make_color_rgb(91,81,81); // dark grey
