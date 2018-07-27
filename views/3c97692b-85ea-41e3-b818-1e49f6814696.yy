@@ -7,7 +7,8 @@
         "1d43eda4-6c3c-47ac-8a75-d649d50ad81b",
         "3b5a604f-4095-4314-8013-a4b68cac495d",
         "2d09d5fe-a775-4509-84b1-5e9c05578e12",
-        "325c4573-b672-4d18-bb9d-b70575c36335"
+        "325c4573-b672-4d18-bb9d-b70575c36335",
+        "ffad122a-cb92-452b-8c4c-4c5e0d08c62e"
     ],
     "filterType": "GMObject",
     "folderName": "grpGame",

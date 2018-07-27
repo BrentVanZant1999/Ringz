@@ -1,0 +1,1 @@
+draw_sprite(spr_title,0, obj_roundControl.titleStartX-10, obj_roundControl.titleStartY-10);

@@ -7,6 +7,7 @@ rings = 4;
 gridSize = obj_data.gridSize; 
 startX = (room_width/2)-320;
 startY = (room_height/2)-320;
-
+titleStartX  = (room_width/2)-320;
+titleStartY  = 40;
 
 generateBoard(boardSize, startX, startY);
