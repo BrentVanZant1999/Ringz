@@ -10,6 +10,7 @@ with(obj_gridPiece) {
 		global.newX = centerX;
 		global.newY = centerY; 
 		ds_stack_push(myContents,global.newNum);
+		myCounter++;
 	}
 }
 var newDisk = instance_create_depth(global.newX, global.newY, depthDisk, obj_disk);

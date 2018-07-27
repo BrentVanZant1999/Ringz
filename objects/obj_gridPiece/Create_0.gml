@@ -4,6 +4,7 @@ mySize = obj_data.gridSize;
 myCenterX = 0;
 myCenterY = 0; 
 alarm[1] = 1; 
+myCounter = 0; 
 
 //initiate the stack of the space
 myContents = ds_stack_create();
