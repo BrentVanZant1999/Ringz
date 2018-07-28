@@ -7,7 +7,7 @@ gridSize = 320;
 roundCounter = 0; 
 timeCurrent = 15;
 timeSecond = 30; 
-isPlaying = false; 
+isPlaying = true; 
 
 //grid handling 
 gridSizeSet1 = 320; 
