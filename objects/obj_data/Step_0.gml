@@ -1,9 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 if ( isPlaying == true) {
-	timeSecond--; 	
+	timeSecond--;
 }
 if ( timeSecond == 0) {
-	timeCurrent--; 	
+	timeCurrent--;
 	timeSecond = 30;
 }

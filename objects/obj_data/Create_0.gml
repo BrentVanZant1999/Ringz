@@ -29,7 +29,10 @@ sizeNine = 100;
 sizeTen = 110; 
 
 
-//color handling 
+//color handling
+colorFont = make_color_rgb(200,208,210);
+colorFontShadow = make_color_rgb(113,125,139);
+
 colorTheme1 = make_color_rgb(255,108,103); //red
 colorTheme1Shadow = make_color_rgb(209,81,103);
 colorTheme2 = make_color_rgb(108,184,255); //blue
