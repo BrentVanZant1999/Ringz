@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "3ff0c91c-3183-433f-86a9-9aa7571ed817",
+            "Value": {
+                "id": "1b2d83ec-e1d3-47e1-bd89-dd4044e7cbe7",
+                "resourcePath": "objects\\obj_button\\obj_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "43a3aa1f-9b64-4ecd-8d26-26443d267a53",
             "Value": {
                 "id": "16853b51-84b4-49a6-b11a-8019736abb31",
@@ -188,6 +196,14 @@
                 "id": "c77a7cb6-148f-41d9-9152-ac5d37e3d0a2",
                 "resourcePath": "scripts\\createGridPiece\\createGridPiece.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "72d9e07e-a953-435d-b6fe-ca7d856b0518",
+            "Value": {
+                "id": "8ef45e57-4e4e-4141-81d5-11a1eab56d18",
+                "resourcePath": "views\\72d9e07e-a953-435d-b6fe-ca7d856b0518.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
