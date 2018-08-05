@@ -1,6 +1,8 @@
 /// @description Control Data Flow
 // Persistant throughout game
-
+//Phase variables
+menuPhase = 0; //starting phase
+alarm[0]=2;
 
 //In-Game Variables
 gridSize = 320;
