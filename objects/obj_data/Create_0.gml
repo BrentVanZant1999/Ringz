@@ -45,3 +45,7 @@ colorTheme4 = make_color_rgb(248,255,103);  //yellow
 colorTheme4Shadow = make_color_rgb(205,182,80); 
 colorEdge = make_color_rgb(85,123,131); // dark blue
 backgroundColor = make_color_rgb(250,250,250); // dark grey
+
+
+titleStartX  = (room_width/2)-320;
+titleStartY  = 40;
