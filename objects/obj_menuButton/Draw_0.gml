@@ -1,6 +1,6 @@
 /// @description Draw the button 
 // You can write your code in this editor
-switch(buttonId)
+switch(buttonID)
 {
 case(0):
 draw_set_color(obj_data.colorTheme1);
@@ -17,7 +17,7 @@ break;
 }
 //draw main rectangle
 draw_rectangle(myCenterX-(width/2),myCenterY-(width/2),myCenterX+(width/2),myCenterY+(width/2),0);
-switch(buttonId)
+switch(buttonID)
 {
 case(0):
 draw_set_color(obj_data.colorTheme1Shadow);
